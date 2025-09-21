@@ -1,0 +1,7 @@
+title: "Arya Rashidinejad Meibodi"
+description: "Notes, projects, and stray thoughts."
+url: "https://ariarsh.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
